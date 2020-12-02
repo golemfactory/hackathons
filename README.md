@@ -1,1 +1,1 @@
-# alpha-hackathon
+# Hackathons
