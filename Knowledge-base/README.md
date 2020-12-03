@@ -1,12 +1,5 @@
 Hello hackers! This repository will guide you through the Golem Online Hackathon, Golem Alpha 3 and everything you might need to hack successfully!
 
-## Prepare for the hackathon!
-- [Gitcoin](https://gitcoin.co/hackathon/golem/)
-- [Finding a Team](/Finding-A-Team/README.md)
-- [Submission Guidelines](/Submission-Guidelines.md)
-- [Code of Conduct](/CODE_OF_CONDUCT.md)
-- [Social media](/Socials/README.md)
-
 ## Get to know Alpha3
 
 - [New Golem's Alpha.3 reveal - zkSync integration + more!](https://blog.golemproject.net/new-golem-alpha-iii-reveal/)
@@ -15,7 +8,7 @@ If you want to know more about Golem Network, and you want some light-ish read w
 
 ## Get some inspiration
 
-If you need some inspiration, here in Awesome Golem you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
+If you need some inspiration, here in [Awesome Golem](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
 As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination! 
 
 Mentorship: if you need help with a mentor to inspire you, please drop a line on Discord to Phillip#9780 
