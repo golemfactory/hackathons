@@ -6,9 +6,11 @@ Hello hackers! This repository will guide you through the Golem Online Hackathon
 
 If you want to know more about Golem Network, and you want some light-ish read we suggest you start from our blog’s post Unraveling Golem’s The Next Milestone, [Part I](https://blog.golemproject.net/next-milestone/), [Part II](https://blog.golemproject.net/next-milestone-part-ii/) and [Part III](https://blog.golemproject.net/next-milestone-part-iii/).
 
+For technical documentation head to the [New Golem Handbook (SDK)](https://handbook.golem.network)
+
 ## Get some inspiration
 
-If you need some inspiration, here in [Awesome Golem](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
+If you need some inspiration, here in [AWESOME GOLEM](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
 
 As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination! 
 
