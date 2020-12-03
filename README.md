@@ -29,11 +29,11 @@ Welcome to the Golem Network Hackathons repository where you can find the links 
 
 [Golem Online Hackathon](https://blog.golemproject.net/golem-online-hackathon/) - December 8th 2020 to January 5th 2021:
 - [Gitcoin](https://gitcoin.co/hackathon/golem/)
-- [Knowledge Base](https://github.com/golemfactory/hackathons/Knowledge-base/README.md)
-- [Finding a Team](https://github.com/golemfactory/hackathons/Finding-A-Team/README.md)
-- [Submission Guidelines](https://github.com/golemfactory/hackathons/Submission-Guidelines.md)
-- [Code of Conduct](https://github.com/golemfactory/hackathons/CODE_OF_CONDUCT.md)
-- [Social media](https://github.com/golemfactory/hackathons/Socials/README.md)
+- [Knowledge Base](/Knowledge-base/README.md)
+- [Finding a Team](/Finding-A-Team/README.md)
+- [Submission Guidelines](/Submission-Guidelines.md)
+- [Code of Conduct](/CODE_OF_CONDUCT.md)
+- [Social media](/Socials/README.md)
 
 ----
 
