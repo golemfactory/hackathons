@@ -10,7 +10,7 @@ For technical documentation head to the [New Golem Handbook (SDK)](https://handb
 
 ## Get some inspiration
 
-If you need some inspiration, here in [AWESOME GOLEM](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
+If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
 
 As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination! 
 
