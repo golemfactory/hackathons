@@ -2,13 +2,13 @@ Hello hackers! This repository will guide you through the Golem Online Hackathon
 
 ## Get to know Alpha3
 
-- [New Golem's Alpha.3 reveal - zkSync integration + more!](https://blog.golemproject.net/new-golem-alpha-iii-reveal/)
-
 <h4 align="center">
   <a href='https://blog.golemproject.net/new-golem-alpha-iii-reveal/'><img 
-      width='500px' 
+      width='400px' 
       alt='' 
       src="https://user-images.githubusercontent.com/35585644/101169712-a4293100-363d-11eb-8efa-489e533a9f3a.png" /></a>
+  <br/>
+  <a href="https://blog.golemproject.net/new-golem-alpha-iii-reveal/">New Golem's Alpha.3 reveal - zkSync integration + more!</a>.
 </h4>
 
 If you want to know more about Golem Network, and you want some light-ish read we suggest you start from our blog’s post Unraveling Golem’s The Next Milestone, [Part I](https://blog.golemproject.net/next-milestone/), [Part II](https://blog.golemproject.net/next-milestone-part-ii/) and [Part III](https://blog.golemproject.net/next-milestone-part-iii/).
