@@ -48,7 +48,7 @@ December 8th 2020 to January 5th 2021:
 - PLEASE READ! [Code of Conduct](/CODE_OF_CONDUCT.md)
 - Need Support? [Social media](/Socials/README.md)
 
-If you are in search of some inspiration, you can take a look at our [Awesome-Golem](https://github.com/golemfactory/awesome-golem) repo, and see what our community has already built. If you can't see your project in Awesome Golem, and is indeed, awesome and built atop New Golem, talk to us on [Discord](https://chat.golem.network/)
+If you are in search of some inspiration, you can take a look at our **[Awesome-Golem](https://github.com/golemfactory/awesome-golem)** repo, and see what our community has already built. If you can't see your project in Awesome Golem, and is indeed, awesome and built atop New Golem.
 
 ----
 
