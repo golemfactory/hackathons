@@ -35,9 +35,11 @@ In case we're missing something you need, please let us know! Just post an issue
       width='500px' 
       alt='' 
       src="https://user-images.githubusercontent.com/35585644/101169192-d8502200-363c-11eb-9b45-2b9302c5e10d.png" /></a>
+  <br/>
+  <a href="https://blog.golemproject.net/golem-online-hackathon/">Golem Online Hackathon</a>
 </h3>
 
-[Golem Online Hackathon](https://blog.golemproject.net/golem-online-hackathon/) - December 8th 2020 to January 5th 2021:
+December 8th 2020 to January 5th 2021:
 - Where? register at [Gitcoin](https://gitcoin.co/hackathon/golem/)
 - What to hack with? [New Golem Handbook (SDK)](https://handbook.golem.network)
 - [Knowledge Base](/Knowledge-base/README.md)
