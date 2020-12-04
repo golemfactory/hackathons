@@ -42,7 +42,7 @@ In case we're missing something you need, please let us know! Just post an issue
 December 8th 2020 to January 5th 2021:
 - Where? register at [Gitcoin](https://gitcoin.co/hackathon/golem/)
 - What to hack with? [New Golem Handbook (SDK)](https://handbook.golem.network)
-- [Knowledge Base](/Knowledge-base/README.md)
+- [Knowledge Base](/Knowledge-base/README.md) - where we will collect everything you need to know
 - I don't have a team - how can I find one? [Find a Team](/Finding-A-Team/README.md)
 - VERY IMPORTANT! [Submission Guidelines](/Submission-Guidelines.md)
 - PLEASE READ! [Code of Conduct](/CODE_OF_CONDUCT.md)
