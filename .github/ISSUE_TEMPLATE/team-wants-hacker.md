@@ -18,7 +18,7 @@ about: You have a team and want to find more hackers? Amazing!
 ## Skills wanted
 
 *Tell us what skills you are looking for:*
-*e.g. Python, NodeJS, UX, Design, Core Blockchain Development (Go, C++, Rust), Smart Contracts (Solidity, Vyper), DApps, Web3.JS (JavaScript, CSS),  Project Management, Other...*
+*e.g. Python, NodeJS, UX, Design, Core Blockchain Development (Go, C++, Rust), DApps, Web3.JS (JavaScript, CSS),  Project Management, Other...*
 
 ## Communication
 
