@@ -17,6 +17,13 @@ If you want to know more about Golem Network, and you want some light-ish read w
 
 For technical documentation head to the [New Golem Handbook (SDK)](https://handbook.golem.network)
 
+# Hackathon categories
+
+- [Open Track Bounty](https://github.com/golemfactory/hackathons/issues/3) - 4 prizes of 5000 USDC
+- [Hack New Golem (improvements for the core platform)](https://github.com/golemfactory/hackathons/issues/6) - 4 prizes of 1000 USDC
+- [Golem For Social Good](https://github.com/golemfactory/hackathons/issues/5) - 1 prize of 2000 USDC
+- [Best DeFi App](https://github.com/golemfactory/hackathons/issues/4) - 1 prize of 3000 USDC
+
 ## Get some inspiration
 
 If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
