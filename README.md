@@ -23,11 +23,12 @@ Yagna GitHub
     </a>
 </p>
 
-Welcome to the Golem Network Hackathons repository where you can find the links to resources about current and upcoming hackathons!
+In this (very new, albeit growing) repo you'll be able to find all information regarding Golem Hackathons, and all you need to build with us!
+In case we're missing something you need, please let us know! Just post an issue. 
 
 ----
 
-## FIRST GOLEM ONLINE HACKATHON - DECEMBER 8TH 2020 / JANUARY 5TH 2021
+## HAPPENING NOW - FIRST GOLEM ONLINE HACKATHON - DECEMBER 8TH 2020 / JANUARY 5TH 2021
 
 [Golem Online Hackathon](https://blog.golemproject.net/golem-online-hackathon/) - December 8th 2020 to January 5th 2021:
 - Where? register at [Gitcoin](https://gitcoin.co/hackathon/golem/)
@@ -37,6 +38,8 @@ Welcome to the Golem Network Hackathons repository where you can find the links 
 - VERY IMPORTANT! [Submission Guidelines](/Submission-Guidelines.md)
 - PLEASE READ! [Code of Conduct](/CODE_OF_CONDUCT.md)
 - Need Support? [Social media](/Socials/README.md)
+
+If you are in search of some inspiration, you can take a look at our [Awesome-Golem](https://github.com/golemfactory/awesome-golem) repo, and see what our community has already built. If you can't see your project in Awesome Golem, and is indeed, awesome and built atop New Golem, talk to us on [Discord](https://chat.golem.network/)
 
 ----
 
