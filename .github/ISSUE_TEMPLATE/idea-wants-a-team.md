@@ -16,7 +16,7 @@ about: You have an idea and need some people to help you make it a reality!
 ## Skills
 
 *Tell us what your skills are:*
-*e.g. Python, NodeJS, UX, Design, Core Blockchain Development (Go, C++, Rust), Smart Contracts (Solidity, Vyper), DApps, Web3.JS (JavaScript, CSS),  Project Management, Other:...*
+*e.g. Python, NodeJS, UX, Design, Core Blockchain Development (Go, C++, Rust), DApps, Web3.JS (JavaScript, CSS),  Project Management, Other:...*
 
 ## Communication
 
