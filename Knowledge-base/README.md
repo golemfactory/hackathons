@@ -1,5 +1,7 @@
 Hello hackers! This repository will guide you through the Golem Online Hackathon, Golem Alpha 3 and everything you might need to hack successfully!
 
+Golem Network is a cloud computing power service where everyone can develop, manage and execute workloads in an unstoppable, inexpensive and censorship-free environment.
+
 ## Get to know Alpha3
 
 <h4 align="center">
