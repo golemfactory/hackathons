@@ -4,7 +4,7 @@ Hello hackers! This repository will guide you through the Golem Online Hackathon
 
 <h4 align="center">
   <a href='https://blog.golemproject.net/new-golem-alpha-iii-reveal/'><img 
-      width='400px' 
+      width='500px' 
       alt='' 
       src="https://user-images.githubusercontent.com/35585644/101169712-a4293100-363d-11eb-8efa-489e533a9f3a.png" /></a>
   <br/>
