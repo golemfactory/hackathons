@@ -5,9 +5,9 @@ Golem Network is a cloud computing power service where everyone can develop, man
 ## Get to know Alpha3
 
 <h4 align="center">
-  <a href='https://blog.golemproject.net/new-golem-alpha-iii-reveal/'><img 
-      width='500px' 
-      alt='' 
+  <a href='https://blog.golemproject.net/new-golem-alpha-iii-reveal/'><img
+      width='500px'
+      alt=''
       src="https://user-images.githubusercontent.com/35585644/101169712-a4293100-363d-11eb-8efa-489e533a9f3a.png" /></a>
   <br/>
   <a href="https://blog.golemproject.net/new-golem-alpha-iii-reveal/">New Golem's Alpha.3 reveal - zkSync integration + more!</a>
@@ -24,13 +24,15 @@ For technical documentation head to the [New Golem Handbook (SDK)](https://handb
 - [Golem For Social Good](https://github.com/golemfactory/hackathons/issues/5) - 1 prize of 2000 USDC
 - [Best DeFi App](https://github.com/golemfactory/hackathons/issues/4) - 1 prize of 3000 USDC
 
+Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory/hackathons/blob/main/Submission-Guidelines/README.md)
+
 ## Get some inspiration
 
-If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem. 
+If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem.
 
-As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination! 
+As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination!
 
-Mentorship: if you need help with a mentor to inspire you, please drop a line on Discord to Phillip#9780 
+Mentorship: if you need help with a mentor to inspire you, please drop a line on Discord to Phillip#9780
 
 ## Social
 
