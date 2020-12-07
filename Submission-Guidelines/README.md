@@ -3,7 +3,7 @@
 ### Guidelines
 
 - The hackathon starts on Dec 8th, 2020 and will end on January 5th, 2021
-- Hackers must start coding on December 8th. Projects started before will disqualify the entire team.
+- Hackers must earliest start coding on December 8th. Projects started before will disqualify the entire team.
 - Projects should be submitted by 11:59pm CET on Jan 5th
 - Judging process will happen on January 6th and 7th - winners will be announced on January 8th.
 - Community managers will reach out to participants and winners to ask to participate in developer surveys and interviews.
