@@ -23,6 +23,7 @@ For technical documentation head to the [New Golem Handbook (SDK)](https://handb
 - [Hack New Golem (improvements for the core platform)](https://github.com/golemfactory/hackathons/issues/6) - 4 prizes of 1000 USDC
 - [Golem For Social Good](https://github.com/golemfactory/hackathons/issues/5) - 1 prize of 2000 USDC
 - [Best DeFi App](https://github.com/golemfactory/hackathons/issues/4) - 1 prize of 3000 USDC
+- [Gaming on Golem](https://github.com/golemfactory/hackathons/issues/9) - 2 prizes of 3000 USDC
 
 Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory/hackathons/blob/main/Submission-Guidelines/README.md)
 
