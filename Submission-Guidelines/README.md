@@ -7,7 +7,7 @@
 - Projects should be submitted by 11:59pm CET on Jan 5th
 - Judging process will happen on January 6th and 7th - winners will be announced on January 8th.
 - Community managers will reach out to participants and winners to ask to participate in developer surveys and interviews.
-- Teams can be formed prior to the hackathon, or until day 3 of the hackathon. Each participant has to register in order to be considered as part of a team.
+- Teams can be formed prior to the hackathon, or during the hackathon. Each participant has to register in order to be considered as part of a team.
 - The projects presented have to be started and developed during the hackathon - while participants can develop their ideas prior to the hackathon, projects built before the hackathon will disqualify the entire team.
 - Golem will not own the projects. Projects will have open source licence and will be publicly available and accessible, by the judges and whomever might be interested, on Gitcoin.
 - Final delivery will include:
