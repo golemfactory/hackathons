@@ -32,3 +32,17 @@
 - A team must consist of a minimum of 1 person and up to 5 people.
 - Participants have to be over the age of 18 years old by the day the hackathon ends.
 - Employees, contractors, or officers of Golem Factory GmbH and its affiliates are not eligible for participation in the hackathon.
+
+### What are we looking for in the submissions?
+
+- We expect nothing more than a MVP prototype
+- We’re looking for end-to-end user applications! (exception: “Golem for Good” and “Hack New Golem” categories)
+- Your app:
+   - Ideally should solve a problem for a user
+   - Or in case of “Gaming on Golem” be playable
+   - Should be hosted on the public web or be easily installable via package/script so your user can try it :) 
+   - In case of “Golem for Good” and “Hack New Golem” it can be proof-of-concept, so a Github link with clear and working running instructions is enough
+   - Should be implemented correctly and working!
+
+
+
