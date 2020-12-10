@@ -29,6 +29,10 @@ Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory
 
 ## Get some inspiration
 
+Get your hacker mind going with the Golem x Gitcoin - Hackathon 101 video below:
+
+[![Golem x Gitcoin - Hackathon 101 (December 2020)](https://img.youtube.com/vi/P6D5ziYcDy0/0.jpg)](https://youtu.be/P6D5ziYcDy0 "Golem x Gitcoin - Hackathon 101 (December 2020)")
+
 If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem.
 
 As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination!
