@@ -2,10 +2,10 @@
 
 ### Guidelines
 
-- The hackathon starts on Dec 8th, 2020 and will end on January 5th, 2021
-- Hackers must earliest start coding on December 8th. Projects started before will disqualify the entire team.
-- Projects should be submitted by 11:59pm CET on Jan 5th
-- Judging process will happen on January 6th and 7th - winners will be announced on January 8th.
+- The hackathon starts on March 22nd, 2021 and will end on April 7th, 2021
+- Hackers must earliest start coding on March 22nd. Projects started before will disqualify the entire team.
+- Projects should be submitted by 11:59pm CET on April 7th
+- Judging process will happen on April 8th and 14th - winners will be announced on  April 14th.
 - Community managers will reach out to participants and winners to ask to participate in developer surveys and interviews.
 - Teams can be formed prior to the hackathon, or during the hackathon. Each participant has to register in order to be considered as part of a team.
 - The projects presented have to be started and developed during the hackathon - while participants can develop their ideas prior to the hackathon, projects built before the hackathon will disqualify the entire team.
@@ -42,6 +42,3 @@
    - It should be hosted on the public web or be easily installable via package/script so your user can try it :) 
    - In case of “Golem for Good” and “Hack New Golem” it can be proof-of-concept, so a Github link with clear and working running instructions is enough
    - Should be implemented correctly and working!
-
-
-

@@ -1,39 +1,35 @@
-Hello hackers! This repository will guide you through the Golem Online Hackathon, Golem Alpha 3 and everything you might need to hack successfully!
+Hello hackers! This repository will guide you through the Golem Online Hackathon, Golem Beta 1 and everything you might need to hack successfully!
 
 Golem Network is a cloud computing power service where everyone can develop, manage and execute workloads in an unstoppable, inexpensive and censorship-free environment.
 
-## Get to know Alpha3
+## Get to know Beta I
 
 <h4 align="center">
-  <a href='https://blog.golemproject.net/new-golem-alpha-iii-reveal/'><img
+  <a href='https://blog.golemproject.net/mainnet-release-beta-i/'><img
       width='500px'
       alt=''
-      src="https://user-images.githubusercontent.com/35585644/101169712-a4293100-363d-11eb-8efa-489e533a9f3a.png" /></a>
+      src="https://user-images.githubusercontent.com/35585644/111146121-5ea7c880-8589-11eb-8f7d-649ccdefe042.png" /></a>
   <br/>
-  <a href="https://blog.golemproject.net/new-golem-alpha-iii-reveal/">New Golem's Alpha.3 reveal - zkSync integration + more!</a>
+  <a href="https://blog.golemproject.net/mainnet-release-beta-i/">Golem Mainnet Release Beta I - experience our cutting edge new and super dev friendly protocol  featuring zkSync layer2 payments</a>
 </h4>
 
 If you want to know more about Golem Network, and you want some light-ish read we suggest you start from our blog’s post Unraveling Golem’s The Next Milestone, [Part I](https://blog.golemproject.net/next-milestone/), [Part II](https://blog.golemproject.net/next-milestone-part-ii/) and [Part III](https://blog.golemproject.net/next-milestone-part-iii/).
 
-For technical documentation head to the [New Golem Handbook (SDK)](https://handbook.golem.network)
+For technical documentation head to the [Golem Handbook (SDK)](https://handbook.golem.network/)
 
 # Hackathon categories
 
-- [Open Track Bounty](https://github.com/golemfactory/hackathons/issues/3) - 4 prizes of 5000 USDC
-- [Hack New Golem (improvements for the core platform)](https://github.com/golemfactory/hackathons/issues/6) - 4 prizes of 1000 USDC
-- [Golem For Social Good](https://github.com/golemfactory/hackathons/issues/5) - 1 prize of 2000 USDC
-- [Best DeFi App](https://github.com/golemfactory/hackathons/issues/4) - 1 prize of 3000 USDC
-- [Gaming on Golem](https://github.com/golemfactory/hackathons/issues/9) - 2 prizes of 3000 USDC
+* Open Track: 4 prizes of 5000 USDC
+* Gaming on Golem: 2 prizes of 2000 USDC
+* Golem + MITSolve 4 Social Good: 1 prize of 2000 USDC
+* Golem on DeFi: 1 prize of 2000 USDC
+* Hack New Golem: 2 prizes of 1000 USDC
 
 Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory/hackathons/blob/main/Submission-Guidelines/README.md)
 
 ## Get some inspiration
 
-Get your hacker mind going with the Golem x Gitcoin - Hackathon 101 video below:
-
-[![Golem x Gitcoin - Hackathon 101 (December 2020)](https://img.youtube.com/vi/P6D5ziYcDy0/0.jpg)](https://youtu.be/P6D5ziYcDy0 "Golem x Gitcoin - Hackathon 101 (December 2020)")
-
-If you need some inspiration, here in **[AWESOME GOLEM](https://github.com/golemfactory/awesome-golem)** you can find a community-curated list of resources, links, projects, tools and apps on Golem.
+If you need some inspiration, here in [AWESOME GOLEM](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem.
 
 As you can see, our community has developed some very cool apps using Golem, the only limit is your imagination!
 
