@@ -28,20 +28,20 @@ In case we're missing something you need, please let us know! Just post an issue
 
 ----
 
-## HAPPENING NOW - FIRST GOLEM ONLINE HACKATHON - DECEMBER 8TH 2020 / JANUARY 5TH 2021
+## HAPPENING NOW - Welcome to Golem + Gitcoin GR9 Hackathon #2: mainnet is here! - MARCH 22ND 2021 / APRIL 7TH 2021
 
 <h3 align="center">
-  <a href='https://blog.golemproject.net/golem-online-hackathon/'><img
+  <a href='https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/'><img
       width='500px'
       alt=''
-      src="https://user-images.githubusercontent.com/35585644/101169192-d8502200-363c-11eb-9b45-2b9302c5e10d.png" /></a>
+      src="https://user-images.githubusercontent.com/35585644/111147200-80557f80-858a-11eb-8882-3642f45e7b1f.png" /></a>
   <br/>
-  <a href="https://blog.golemproject.net/golem-online-hackathon/">Golem Online Hackathon</a>
+  <a href="https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/">Golem + Gitcoin GR9 Hackathon #2: mainnet is here!</a>
 </h3>
 
-December 8th 2020 to January 5th 2021:
-- Where? register at [Gitcoin](https://gitcoin.co/hackathon/golem/)
-- What to hack with? [New Golem Handbook (SDK)](https://handbook.golem.network)
+March 22nd 2021 to April 7th 2021:
+- Where? register at [Gitcoin](https://gitcoin.co/hackathon/gr9/?org=golemfactory)
+- What to hack with? [Golem Handbook (SDK)](https://handbook.golem.network)
 - [Knowledge Base](/Knowledge-base/README.md) - where we will collect everything you need to know
 - I don't have a team - how can I find one? [Find a Team](/Finding-A-Team/README.md)
 - VERY IMPORTANT! [Submission Guidelines](/Submission-Guidelines/README.md)
