@@ -19,11 +19,11 @@ For technical documentation head to the [Golem Handbook (SDK)](https://handbook.
 
 # Hackathon categories
 
-* Open Track: 4 prizes of 5000 USDC
-* Gaming on Golem: 2 prizes of 2000 USDC
-* Golem + MITSolve 4 Social Good: 1 prize of 2000 USDC
-* Golem on DeFi: 1 prize of 2000 USDC
-* Hack New Golem: 2 prizes of 1000 USDC
+* [Open Track](https://gitcoin.co/issue/golemfactory/hackathons/11/100025157): 4 prizes of 5000 USDC
+* [Gaming on Golem](https://gitcoin.co/issue/golemfactory/hackathons/12/100025158): 2 prizes of 2000 USDC
+* [Golem + MITSolve 4 Social Good](https://gitcoin.co/issue/golemfactory/hackathons/13/100025159): 1 prize of 2000 USDC
+* [Golem on DeFi](https://gitcoin.co/issue/golemfactory/hackathons/14/100025160): 1 prize of 2000 USDC
+* [Hack Golem](https://gitcoin.co/issue/golemfactory/hackathons/14/100025160): 2 prizes of 1000 USDC
 
 Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory/hackathons/blob/main/Submission-Guidelines/README.md)
 
