@@ -1,4 +1,4 @@
-Hello hackers! This repository will guide you through the Golem Online Hackathon, Golem Beta 1 and everything you might need to hack successfully!
+Hello hackers! This repository will guide you through the Golem + Gitcoin GR9 Hackathon, Golem Beta 1 software release and everything you might need to hack successfully!
 
 Golem Network is a cloud computing power service where everyone can develop, manage and execute workloads in an unstoppable, inexpensive and censorship-free environment.
 
@@ -17,7 +17,7 @@ If you want to know more about Golem Network, and you want some light-ish read w
 
 For technical documentation head to the [Golem Handbook (SDK)](https://handbook.golem.network/)
 
-# Hackathon categories
+# Golem + Gitcoin GR9 Hackathon Hackathon categories
 
 * [Open Track](https://gitcoin.co/issue/golemfactory/hackathons/11/100025157): 4 prizes of 5000 USDC
 * [Gaming on Golem](https://gitcoin.co/issue/golemfactory/hackathons/12/100025158): 2 prizes of 2000 USDC
