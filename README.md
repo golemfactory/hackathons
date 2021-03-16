@@ -48,7 +48,7 @@ March 22nd 2021 to April 7th 2021:
 - PLEASE READ! [Code of Conduct](/CODE_OF_CONDUCT.md)
 - Need Support? [Social media](/Socials/README.md)
 
-If you are in search of some inspiration, you can take a look at our **[Awesome-Golem](https://github.com/golemfactory/awesome-golem)** repo, and see what our community has already built. If you can't see your project in Awesome Golem, and is indeed, awesome and built atop New Golem then please create an [Issue](https://github.com/golemfactory/awesome-golem/issues/new) or PR, otherwise get in contact with us via [social media](/Socials/README.md) and we'll be happy to update it.
+If you are in search of some inspiration, you can take a look at our **[Awesome-Golem](https://github.com/golemfactory/awesome-golem)** repo, and see what our community has already built. If you can't see your project in Awesome Golem, and is indeed, awesome and built atop Golem then please create an [Issue](https://github.com/golemfactory/awesome-golem/issues/new) or PR, otherwise get in contact with us via [social media](/Socials/README.md) and we'll be happy to update it.
 
 ----
 
