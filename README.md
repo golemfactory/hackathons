@@ -28,7 +28,7 @@ In case we're missing something you need, please let us know! Just post an issue
 
 ----
 
-## HAPPENING NOW - Welcome to Golem + Gitcoin GR9 Hackathon #2: mainnet is here! - MARCH 22ND 2021 / APRIL 7TH 2021
+## HAPPENING NOW - Welcome to Golem + Gitcoin GR9 Hackathon #2: mainnet is here! - FINISHING APRIL 7TH 2021
 
 <h3 align="center">
   <a href='https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/'><img
@@ -39,7 +39,7 @@ In case we're missing something you need, please let us know! Just post an issue
   <a href="https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/">Golem + Gitcoin GR9 Hackathon #2: mainnet is here!</a>
 </h3>
 
-March 22nd 2021 to April 7th 2021:
+Finishing April 7th 2021:
 - Where? register at [Gitcoin](https://gitcoin.co/hackathon/gr9/?org=golemfactory)
 - What to hack with? [Golem Handbook (SDK)](https://handbook.golem.network)
 - [Knowledge Base](/Knowledge-base/README.md) - where we will collect everything you need to know
