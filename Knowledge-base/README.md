@@ -27,6 +27,15 @@ For technical documentation head to the [Golem Handbook (SDK)](https://handbook.
 
 Don't forget to see the [sumbmission guidelines](https://github.com/golemfactory/hackathons/blob/main/Submission-Guidelines/README.md)
 
+## Get started on Mainnet quickly with the GLM Faucet!
+
+You can get started with our Mainnet faucet to get you up and running tasks on Mainnet using real GLM! Join the Golem [chat](https://chat.golem.network/), go to the #funding channel and do /terms. Watch the requestor quickstart video for more!
+
+[![Golem Mainnet Requestor quickstart Walk-through (Beta I)
+](https://img.youtube.com/vi/GcdTq3i_wdY/0.jpg)](https://youtu.be/GcdTq3i_wdY "Golem Mainnet Requestor quickstart Walk-through (Beta I)")
+
+The faucet will provide you with enough GLM to get you running lots of mainnet tasks. Keep in mind that these GLM tokens are on ZkSync which is a layer two solution.
+
 ## Get some inspiration
 
 If you need some inspiration, here in [AWESOME GOLEM](https://github.com/golemfactory/awesome-golem) you can find a community-curated list of resources, links, projects, tools and apps on Golem.
