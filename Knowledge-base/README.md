@@ -34,6 +34,11 @@ You can get started with our Mainnet faucet to get you up and running tasks on M
 [![Golem Mainnet Requestor quickstart Walk-through (Beta I)
 ](https://img.youtube.com/vi/GcdTq3i_wdY/0.jpg)](https://youtu.be/GcdTq3i_wdY "Golem Mainnet Requestor quickstart Walk-through (Beta I)")
 
+In addition, we also have a workshop from our SDK team (Kuba M) that will help guide you how to get started writing and understanding applications on Golem:
+
+[![Golem Mainnet Requestor quickstart Walk-through (Beta I)
+](https://img.youtube.com/vi/gWRqu7IvYfk/0.jpg)](https://youtu.be/gWRqu7IvYfk "Golem Workshop")
+
 The faucet will provide you with enough GLM to get you running lots of mainnet tasks. Keep in mind that these GLM tokens are on ZkSync which is a layer two solution.
 
 ## Get some inspiration
