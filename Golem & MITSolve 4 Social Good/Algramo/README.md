@@ -18,7 +18,7 @@ Our elimination of packaging waste and reverse logistic provides major savings-c
 
 ###  Do you have a prototype/mock up? If so, please past here the link (If you don't have it, don't worry, email costanza@golem.network and we'll help you with this step)
 
-I have a PPT deck that explains the app. I will email it to Costanza.
+[mobile-app-v1.pptx (1).pdf](https://github.com/golemfactory/hackathons/files/6180818/mobile-app-v1.pptx.1.pdf)
 
 ### Can you describe what type of app/computation you need? (If you can't answer, don't worry, email costanza@golem.network and we'll help you with this step)
 
