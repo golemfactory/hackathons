@@ -18,7 +18,8 @@ https://go.glideapps.com/app/eO7XNOLrk7DEPwHNoS1S/layout
 
 ### Can you describe what type of app/computation you need? (If you can't answer, don't worry, email costanza@golem.network and we'll help you with this step)
 
-sorry
+https://docs.google.com/presentation/d/1iK4ufNO-mt7_Znrt8FgDd3n0XZ52O60IeDK_aaQzde8/edit?usp=sharing
+
 ### what's the best way for hackers to contact you? *
 
 email ku@kuakanaka.com
