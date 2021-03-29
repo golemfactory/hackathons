@@ -39,7 +39,7 @@ In addition, we also have a workshop from our SDK team (Kuba M) that will help g
 [![Golem Workshop)
 ](https://img.youtube.com/vi/gWRqu7IvYfk/0.jpg)](https://youtu.be/gWRqu7IvYfk "Golem Workshop")
 
-Kuba recently gave another video workshop (below) sharing a simple app on Golem with the [Hello World](https://handbook.golem.network/requestor-tutorials/hello-world) easy first requestor tasks guide:
+Kuba recently gave another live workshop specific to this hackathon (video below) sharing a simple app on Golem with the [Hello World](https://handbook.golem.network/requestor-tutorials/hello-world) easy first requestor tasks guide:
 
 [![Golem Mainnet Hackathon Workshop)
 ](https://img.youtube.com/vi/xGhuXeU0hF0/0.jpg)](https://www.youtube.com/watch?v=xGhuXeU0hF0 "Golem Mainnet Hackathon Workshop")
