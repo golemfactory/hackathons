@@ -5,7 +5,7 @@
 - The hackathon starts on March 16th, 2021 and will end on April 21st, 2021
 - Hackers must earliest start coding on March 16th. Projects started before will disqualify the entire team.
 - Projects should be submitted by 11:59pm CET on April 21st
-- Judging process will happen on April 8th and 14th - winners will be announced on  April 14th.
+- Judging process will happen on April 22nd and 28th - winners will be announced on  April 29th.
 - Community managers will reach out to participants and winners to ask to participate in developer surveys and interviews.
 - Teams can be formed prior to the hackathon, or during the hackathon. Each participant has to register in order to be considered as part of a team.
 - The projects presented have to be started and developed during the hackathon - while participants can develop their ideas prior to the hackathon, projects built before the hackathon will disqualify the entire team.
