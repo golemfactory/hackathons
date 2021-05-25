@@ -28,23 +28,23 @@ In case we're missing something you need, please let us know! Just post an issue
 
 ----
 
-## HAPPENING NOW - Welcome to Golem + Gitcoin GR9 Hackathon #2: mainnet is here! - FINISHING APRIL 21st 2021
+## HAPPENING NOW - 0xHack - June 2nd 2021
 
 <h3 align="center">
-  <a href='https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/'><img
+  <a href='http://0xhack.dev/'><img
       width='500px'
       alt=''
-      src="https://user-images.githubusercontent.com/35585644/111147200-80557f80-858a-11eb-8882-3642f45e7b1f.png" /></a>
+      src="https://0xhack.dev/images/0xHack.png" /></a>
   <br/>
-  <a href="https://blog.golemproject.net/welcome-to-golem-gitcoin-gr9-hackathon-2-mainnet-is-here/">Golem + Gitcoin GR9 Hackathon #2: mainnet is here!</a>
+  <a href="http://0xhack.dev/">0xHack</a>
 </h3>
 
-Finishing April 21st 2021:
-- Where? register at [Gitcoin](https://gitcoin.co/hackathon/gr9/?org=golemfactory)
+Hacking finishing May 31st 2021:
+- Where? register at [Gitcoin](https://gitcoin.co/issue/golemfactory/hackathons/18/100025686)
 - What to hack with? [Golem Handbook (SDK)](https://handbook.golem.network)
-- [Knowledge Base](/Knowledge-base/README.md) - where we will collect everything you need to know
-- I don't have a team - how can I find one? [Find a Team](/Finding-A-Team/README.md)
-- VERY IMPORTANT! [Submission Guidelines](/Submission-Guidelines/README.md)
+- [Knowledge Base](https://github.com/EthWorks/hackathons) - where we will collect everything you need to know
+- I don't have a team - how can I find one? [Find a Team on Discord](https://discord.gg/ppFxC3E44X)
+- VERY IMPORTANT! [Submission Guidelines](https://docs.google.com/document/d/1-azm1pghun5IiwRznfcFx8f2GqBNDo96ejgeT1jTcu4/edit)
 - PLEASE READ! [Code of Conduct](/CODE_OF_CONDUCT.md)
 - Need Support? [Social media](/Socials/README.md)
 
